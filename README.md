@@ -2,64 +2,6 @@
 
 I am Artem, a passionate Python developer! 👋</h1>
 
-<div align="center" class="wave">
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-</div>
-
-<style>
-  .wave {
-    width: 200px;
-    height: 75px;
-    position: relative;
-    margin: 20px auto;
-  }
-
-  .wave span {
-    display: block;
-    position: absolute;
-    bottom: 0;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background: #00adb5;
-    animation: wave 1.5s ease-in-out infinite;
-  }
-
-  .wave span:nth-child(2) {
-    left: 40px;
-    animation-delay: 0.2s;
-  }
-
-  .wave span:nth-child(3) {
-    left: 80px;
-    animation-delay: 0.4s;
-  }
-
-  .wave span:nth-child(4) {
-    left: 120px;
-    animation-delay: 0.6s;
-  }
-
-  .wave span:nth-child(5) {
-    left: 160px;
-    animation-delay: 0.8s;
-  }
-
-  @keyframes wave {
-    from {
-      transform: scale(0.4);
-      opacity: 1;
-    }
-    to {
-      transform: scale(1.5);
-      opacity: 0;
-    }
-  }
-</style>
 
 
 
@@ -72,10 +14,6 @@ I am Artem, a passionate Python developer! 👋</h1>
     <img alt="CodeWars Profile" src="https://www.codewars.com/users/artyom_v/badges/micro" />
   </a>
 </p>
-
-
-
-
 
 
 <div align="center">
@@ -127,68 +65,6 @@ I am Artem, a passionate Python developer! 👋</h1>
   <div class="top"></div>
   <div class="bottom"></div>
 </div>
-
-
-<div align="center">
-  <div class="wave">
-    <span></span>
-    <span></span>
-    <span></span>
-    <span></span>
-    <span></span>
-  </div>
-</div>
-
-<style>
-  .wave {
-    width: 200px;
-    height: 75px;
-    position: relative;
-    margin: 20px auto;
-  }
-
-  .wave span {
-    display: block;
-    position: absolute;
-    bottom: 0;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background: #00adb5;
-    animation: wave 1.5s ease-in-out infinite;
-  }
-
-  .wave span:nth-child(2) {
-    left: 40px;
-    animation-delay: 0.2s;
-  }
-
-  .wave span:nth-child(3) {
-    left: 80px;
-    animation-delay: 0.4s;
-  }
-
-  .wave span:nth-child(4) {
-    left: 120px;
-    animation-delay: 0.6s;
-  }
-
-  .wave span:nth-child(5) {
-    left: 160px;
-    animation-delay: 0.8s;
-  }
-
-  @keyframes wave {
-    from {
-      transform: scale(0.4);
-      opacity: 1;
-    }
-    to {
-      transform: scale(1.5);
-      opacity: 0;
-    }
-  }
-</style>
 
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
