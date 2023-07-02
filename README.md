@@ -2,15 +2,23 @@
 
 I am Artem, a passionate Python developer! 👋</h1>
 
-<div align="center" class="wave">
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
+<div class="container">
+  <div class="wave">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
 </div>
 
 <style>
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
   .wave {
     width: 200px;
     height: 75px;
@@ -60,9 +68,6 @@ I am Artem, a passionate Python developer! 👋</h1>
     }
   }
 </style>
-
-
-
 
 <p align="center">
   <a href="https://leetcode.com/vah-art/">
