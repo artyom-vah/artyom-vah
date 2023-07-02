@@ -65,9 +65,6 @@ I am Artem, a passionate Python developer! 👋</h1>
 <div align="center" class="hourglass">
   <div class="top"></div>
   <div class="bottom"></div>
-    body {
-    text-align: center;
-  }
 </div>
 
 
