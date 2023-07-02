@@ -203,10 +203,9 @@ I am Artem, a passionate Python developer! 👋</h1>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%;" />
    </div>
 <h2>Language Statistics</h2>
-   <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" style="margin-right: 20px; flex-basis: 50%;" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%;" />
-
-   </div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" style="margin-right: 20px; flex-basis: 50%; width: 50%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%; width: 50%;" />
+</div>
 
 </div>
