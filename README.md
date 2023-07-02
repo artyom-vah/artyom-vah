@@ -129,8 +129,8 @@ I am Artem, a passionate Python developer! 👋</h1>
 </div>
 
 
-<div style="display: flex; justify-content: center;">
-  <div class="wave" style="flex-direction: row-reverse;">
+<div align="center">
+  <div class="wave">
     <span></span>
     <span></span>
     <span></span>
@@ -145,8 +145,6 @@ I am Artem, a passionate Python developer! 👋</h1>
     height: 75px;
     position: relative;
     margin: 20px auto;
-    display: flex;
-    align-items: flex-end;
   }
 
   .wave span {
@@ -208,5 +206,7 @@ I am Artem, a passionate Python developer! 👋</h1>
    <div style="display: flex; justify-content: center; align-items: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" style="margin-right: 20px; flex-basis: 50%;" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%;" />
+
    </div>
+
 </div>
