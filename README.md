@@ -194,18 +194,19 @@ I am Artem, a passionate Python developer! 👋</h1>
 
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-   <h2>Language Statistics</h2>
-   <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" style="margin-right: 20px; flex-basis: 50%;" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%;" />
-   </div>
-   <h2>Commit Stats</h2>
+
+<h2>GitHub Profile Summary</h2>
+   <div>
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artyom-vah&theme=solarized_dark"/>
+    </div>
+<h2>Commit Stats</h2>
    <div style="display: flex; justify-content: center; align-items: center;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artyom-vah&theme=solarized_dark" style="margin-right: 20px; flex-basis: 50%;" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%;" />
    </div>
-   <h2>GitHub Profile Summary</h2>
-   <div>
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artyom-vah&theme=solarized_dark"/>
-    </div>
+<h2>Language Statistics</h2>
+   <div style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" style="margin-right: 20px; flex-basis: 50%;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%;" />
+   </div>
 </div>
