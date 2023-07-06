@@ -1,6 +1,6 @@
 <h1 align="center">Hello to all programming lovers, 
 
-I am Artem, a passionate Python developer! 👋</h1>
+I am Artem, a Python developer! 👋</h1>
 
 
 <p align="center">
