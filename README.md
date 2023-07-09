@@ -64,9 +64,9 @@ I am Artem, a Python developer! 👋</h1>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h2 style="margin-top: 0;">GitHub Profile Summary</h2>
-  <div style="margin-bottom: 30px; display: flex; justify-content: center; align-items: center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artyom-vah&theme=solarized_dark" style="max-width: 100%" />
-  </div>
+<div style="margin-bottom: 30px; display: flex; justify-content: center; align-items: center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artyom-vah&theme=solarized_dark&cache_seconds=86400" style="max-width: 100%" />
+</div>
   <h2>Commit Stats</h2>
   <div style="display: flex; justify-content: center; align-items: flex-start; margin-bottom: 30px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artyom-vah&theme=solarized_dark" style="margin-right: 20px; flex-basis: 50%; max-width: 600px;" />
