@@ -58,31 +58,26 @@ I am Artem, a Python developer! 👋</h1>
     <a href="mailto:helllsin@yandex.ru">
         <img alt="Yandex" src="https://img.shields.io/badge/Yandex-helllsin%40yandex.ru-FF0000?style=for-the-badge&logo=yandex&logoColor=white" />
     </a>
-
 </p>
 
 
-<div align="center" class="hourglass">
-  <div class="top"></div>
-  <div class="bottom"></div>
+## GitHub Profile Summary
+
+<div class="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artyom-vah&theme=solarized_dark" alt="Profile Details" />
 </div>
 
+## Commit Stats
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <h2 style="margin-top: 0;">GitHub Profile Summary</h2>
-  <div style="margin-bottom: 30px; display: flex; justify-content: center; align-items: center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artyom-vah&theme=solarized_dark" style="max-width: 100%" />
-  </div>
-  <h2>Commit Stats</h2>
-  <div style="display: flex; justify-content: center; align-items: flex-start; margin-bottom: 30px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artyom-vah&theme=solarized_dark" style="margin-right: 20px; flex-basis: 50%; max-width: 600px;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%; max-width: 600px;" />
-  </div>
-  <h2>Language Statistics</h2>
-  <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" style="margin-right: 20px; flex-basis: 50%; max-width: 600px;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artyom-vah&theme=solarized_dark" style="flex-basis: 50%; max-width: 600px;" />
-  </div>
+<div class="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artyom-vah&theme=solarized_dark" alt="Productive Time" style="margin-right: 20px; max-width: 600px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artyom-vah&theme=solarized_dark" alt="Stats" style="max-width: 600px;" />
 </div>
 
+## Language Statistics
+
+<div class="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="margin-right: 20px; max-width: 600px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artyom-vah&theme=solarized_dark" alt="Repos per Language" style="max-width: 600px;" />
 </div>
+
