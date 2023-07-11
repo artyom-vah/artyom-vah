@@ -61,7 +61,6 @@ I am Artem, a Python developer! 👋</h1>
 </p>
 
 
-
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h2 style="margin-top: 0;">GitHub Profile Summary</h2>
 <div style="margin-bottom: 30px; display: flex; justify-content: center; align-items: center">
