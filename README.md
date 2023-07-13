@@ -13,8 +13,6 @@ I am Artem, a Python developer! 👋</h1>
 </p>
 
 
-
-
 <div align="center">
   <h3>Languages and Tools:</h3>
   <p>
