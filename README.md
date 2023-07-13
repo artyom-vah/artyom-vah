@@ -15,8 +15,6 @@ I am Artem, a Python developer! 👋</h1>
 
 
 
-
-
 <div align="center">
   <h3>Languages and Tools:</h3>
   <p>
