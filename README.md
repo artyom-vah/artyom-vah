@@ -40,7 +40,6 @@ I am Artem, a Python developer! 👋</h1>
   </p>
 </div>
 
-
 <p align="center">Would you like to connect with me? Follow me on the following social networks:</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/artem-vakh-353594207/">
