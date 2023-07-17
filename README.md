@@ -37,13 +37,7 @@ I am Artem, a Python developer! 👋</h1>
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
     <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
     <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
-    
-     <p align="center">
-      <a href="https://seleniumbase.io">
-        <img src="https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat&logo=selenium&logoColor=white">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/64px-Selenium_Logo.png" alt="Selenium" height="20">
-      </a>
-     </p>
+    <img alt="Selenium" src="https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat&logo=selenium&logoColor=white" />
 </div>
 
 <p align="center">Would you like to connect with me? Follow me on the following social networks:</p>
