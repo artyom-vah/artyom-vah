@@ -3,18 +3,19 @@
 I am Artem, a Python developer! 👋</h1>
 
 
+
 <p align="center">
 <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xlwx7sw2jqpg6u507usc9rk1rfnzgxkr3tuey4uu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Alt Text" width="50" height="50">
   <a href="https://leetcode.com/vah-art/">
     <img alt="Solved LeetCode problems" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=blue&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvah-art&logo=leetcode&logoColor=yellow" />
   </a>
-
-<img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xlwx7sw2jqpg6u507usc9rk1rfnzgxkr3tuey4uu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Alt Text" width="50" height="50">
+<img src="https://assets.objkt.media/file/assets-003/QmRZTDE7AvHfkYgfP1WCCAf1j1GeMRcrq3rCowaHFNNmSQ/artifact" alt="Alt Text" width="200" height="100">
   <a href="https://www.codewars.com/users/artyom_v">
     <img alt="CodeWars Profile" src="https://www.codewars.com/users/artyom_v/badges/micro" />
   </a>
 <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xlwx7sw2jqpg6u507usc9rk1rfnzgxkr3tuey4uu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Alt Text" width="50" height="50">
 </p>
+
 
 
 <div align="center">
