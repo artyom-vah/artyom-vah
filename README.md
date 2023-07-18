@@ -18,10 +18,6 @@ I am Artem, a Python developer! 👋</h1>
 
 
 
-
-
-
-
 <div align="center">
   <h3>Languages and Tools:</h3>
   <p>
@@ -50,7 +46,7 @@ I am Artem, a Python developer! 👋</h1>
     <img alt="Selenium" src="https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat&logo=selenium&logoColor=white" />
 </div>
 
-<p align="center">Would you like to connect with me? Follow me on the following social networks:</p>
+<h3><p align="center">Would you like to connect with me? Follow me on the following social networks:</p></h3>h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/artem-vakh-353594207/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
