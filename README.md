@@ -66,7 +66,6 @@ I am Artem, a Python developer! 👋</h1>
     </a>
 </p>
 
-
 <div align="center">
   <h1>GitHub Profile Summary</h1>
 
@@ -75,7 +74,7 @@ I am Artem, a Python developer! 👋</h1>
   <h2>Commit Stats and Language Statistics</h2>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artyom-vah&theme=solarized_dark" alt="Commit Stats" style="width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" alt="Language Statistics" style="width: 425px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" alt="Language Statistics" style="width: 427px;" />
 
 </div>
 
