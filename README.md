@@ -42,6 +42,16 @@ I am Artem, a Python developer! 👋</h1>
     <img alt="Selenium" src="https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat&logo=selenium&logoColor=white" />
 </div>
 
+<div align="center">
+  <h3>Also in the process of learning:</h3>
+  <p>
+    <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> 
+    <img alt="Uvicorn" src="https://img.shields.io/badge/-Uvicorn-FF5722?style=flat&logo=uvicorn&logoColor=white" />
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-FF0000?style=flat&logo=sqlalchemy&logoColor=white" />
+
+  </p>
+</div>
+
 <h4><p align="center">Would you like to connect with me? Follow me on the following social networks:</p></h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/artem-vakh-353594207/">
