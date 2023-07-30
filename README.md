@@ -40,6 +40,7 @@ I am Artem, a Python developer! 👋</h1>
     <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
     <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
     <img alt="Selenium" src="https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat&logo=selenium&logoColor=white" />
+ </p>
 </div>
 
 <div align="center">
@@ -48,7 +49,6 @@ I am Artem, a Python developer! 👋</h1>
     <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> 
     <img alt="Uvicorn" src="https://img.shields.io/badge/-Uvicorn-FF5722?style=flat&logo=uvicorn&logoColor=white" />
     <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-FF0000?style=flat&logo=sqlalchemy&logoColor=white" />
-
   </p>
 </div>
 
