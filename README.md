@@ -59,6 +59,7 @@ I am Artem, a Python developer! 👋</h1>
 </p>
 
 <div align="center">
+  
   <h2>GitHub Profile Summary</h2>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artyom-vah&theme=solarized_dark&cache_seconds=86400" alt="Profile Summary" style="width: 835px;" />
