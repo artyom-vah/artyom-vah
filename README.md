@@ -47,7 +47,10 @@ I am Artem, a Python developer! 👋</h1>
   <h3>Also in the process of learning:</h3>
   <p>
     <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> 
+    <img alt="Uvicorn" src="https://img.shields.io/badge/-Uvicorn-FF5722?style=flat&logo=uvicorn&logoColor=white" />
     <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-FF0000?style=flat&logo=sqlalchemy&logoColor=white" />
+    <img alt="Alembic" src="https://img.shields.io/badge/-Alembic-3276AE?style=flat&logo=alembic&logoColor=white" />
+    <img alt="Pydantic" src="https://img.shields.io/badge/-Pydantic-2B8BB3?style=flat&logo=pydantic&logoColor=white" />
   </p>
 </div>
 
