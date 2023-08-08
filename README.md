@@ -8,6 +8,8 @@ I am Artem, a Python developer! 👋</h1>
     <img alt="Solved LeetCode problems" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=blue&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvah-art&logo=leetcode&logoColor=yellow" />
   </a>
 
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70"/>
+
 <a href="https://www.codewars.com/users/artyom_v">
     <img alt="CodeWars Profile" src="https://www.codewars.com/users/artyom_v/badges/micro" />
   </a>
@@ -43,8 +45,12 @@ I am Artem, a Python developer! 👋</h1>
  </p>
 </div>
 
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artyom-vah&theme=dark&background=000000&ring=2D9BF0)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
