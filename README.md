@@ -43,6 +43,10 @@ I am Artem, a Python developer! 👋</h1>
  </p>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div align="center">
   <h3>Also in the process of learning:</h3>
   <p>
