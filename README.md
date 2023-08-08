@@ -58,6 +58,10 @@ I am Artem, a Python developer! 👋</h1>
   </p>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
+</div>
+
 <h4><p align="center">Would you like to connect with me? Follow me on the following social networks:</p></h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/artem-vakh-353594207/">
@@ -74,9 +78,6 @@ I am Artem, a Python developer! 👋</h1>
     </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 
 <div align="center">
