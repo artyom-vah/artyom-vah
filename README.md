@@ -43,15 +43,11 @@ I am Artem, a Python developer! 👋</h1>
     <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
     <img alt="Selenium" src="https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat&logo=selenium&logoColor=white" />    
  </p>
-</div>
-
-
-
-<div id="header" align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artyom-vah&theme=dark&background=000000&ring=2D9BF0)](https://git.io/streak-stats)
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artyom-vah&theme=dark&background=000000&ring=2D9BF0)](https://git.io/streak-stats)
 
 </div>
+
 
 <div align="center">
   <h3>Also in the process of learning:</h3>
