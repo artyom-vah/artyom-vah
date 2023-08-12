@@ -48,7 +48,6 @@ I am Artem, a Python developer! 👋</h1>
 
 </div>
 
-
 <div align="center">
   <h3>Also in the process of learning:</h3>
   <p>
