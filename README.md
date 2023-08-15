@@ -80,7 +80,6 @@ I am Artem, a Python developer! 👋</h1>
 </p>
 
 
-
 <div align="center">
   
   <h2>GitHub Profile Summary</h2>
