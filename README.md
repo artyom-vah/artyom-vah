@@ -79,7 +79,6 @@ I am Artem, a Python developer! 👋</h1>
     </a>
 </p>
 
-
 <div align="center">
   
   <h2>GitHub Profile Summary</h2>
