@@ -91,3 +91,5 @@ I am Artem, a Python developer! 👋</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyom-vah&layout=compact&langs_count=8&theme=radical" alt="Language Statistics" style="width: 428px;" />
 
 </div>
+
+
