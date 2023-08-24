@@ -92,4 +92,3 @@ I am Artem, a Python developer! 👋</h1>
 
 </div>
 
-
