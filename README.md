@@ -2,6 +2,7 @@
 
 I am Artem, a Python developer! 👋</h1>
 
+
 <p align="center">
 <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xlwx7sw2jqpg6u507usc9rk1rfnzgxkr3tuey4uu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Alt Text" width="50" height="50">
   <a href="https://leetcode.com/vah-art/">
