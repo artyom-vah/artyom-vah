@@ -41,7 +41,8 @@ I am Artem, a Python developer! 👋</h1>
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
     <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
     <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
-    <img alt="Selenium" src="https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat&logo=selenium&logoColor=white" />    
+    <img alt="Selenium" src="https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat&logo=selenium&logoColor=white" /> 
+    <img alt="Poetry" src="https://img.shields.io/badge/-Poetry-503580?style=flat&logo=python&logoColor=white" />
  </p>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artyom-vah&theme=dark&background=000000&ring=2D9BF0)](https://git.io/streak-stats)
